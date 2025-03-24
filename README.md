@@ -5,7 +5,7 @@ Aspect-based Sentiment Analysis (ABSA) has advanced significantly over the past 
 
 In this study, the input consists of processed user comments, while the output includes the predicted labels for those comments. The figure below illustrates the input and output of the task.
 
-<img width="600" alt="Input and output" src="/workspaces/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./Images/InputOutput.png">
+<img width="600" alt="Input and output" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/Architec.png?raw=true">
 
 
 ## Dataset
