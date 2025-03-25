@@ -11,11 +11,11 @@ In this study, the input consists of processed user comments, while the output i
 ## Dataset
 We collected user comments from several Vietnamese programs such as "2 Ngày 1 Đêm", "Rap Việt",... and preprocessed them to prepare for model training.
 
-<img width="600" alt="Input and output" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/Quantity.png?raw=true">
+<img width="600" alt="Quantity" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/Quantity.png?raw=true">
 
 
 # System Architecture
-<img width="600" alt="Input and output" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/Architec.png?raw=true">
+<img width="600" alt="Architecture" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/Architec.png?raw=true">
 
 # Model Evaluation
-<img width="600" alt="Input and output" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/Model.png?raw=true">
+<img width="600" alt="Model" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/Model.png?raw=true">
