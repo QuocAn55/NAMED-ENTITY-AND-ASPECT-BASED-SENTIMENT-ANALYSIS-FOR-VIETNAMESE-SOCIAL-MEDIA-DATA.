@@ -5,17 +5,35 @@ Aspect-based Sentiment Analysis (ABSA) has advanced significantly over the past 
 
 In this study, the input consists of processed user comments, while the output includes the predicted labels for those comments. The figure below illustrates the input and output of the task.
 
-<img width="600" alt="Input and output" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/InputOutput.png?raw=true">
+<p align="center">
+  <img width="600" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/InputOutput.png?raw=true" alt="Input and output">
+  <br>
+  <em>Figure 1: Example of the input and output of the task.</em>
+</p>
 
 
 ## Dataset
 We collected user comments from several Vietnamese programs such as "2 Ngày 1 Đêm", "Rap Việt",... and preprocessed them to prepare for model training.
 
-<img width="600" alt="Quantity" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/Quantity.png?raw=true">
 
+<p align="center">
+  <img width="600" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/Quantity.png?raw=true" alt="Quantity">
+  <br>
+  <em>Figure 2: Distribution of the number of comments collected from several Vietnamese entertainment programs.</em>
+</p>
 
 # System Architecture
-<img width="600" alt="Architecture" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/Architec.png?raw=true">
+
+<p align="center">
+  <img width="600" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/Architec.png?raw=true" alt="Architecture">
+  <br>
+  <em>Figure 3: Overall architecture of the task.</em>
+</p>
 
 # Model Evaluation
-<img width="600" alt="Model" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/Model.png?raw=true">
+
+<p align="center">
+  <img width="600" src="https://github.com/QuocAn55/NAMED-ENTITY-AND-ASPECT-BASED-SENTIMENT-ANALYSIS-FOR-VIETNAMESE-SOCIAL-MEDIA-DATA./blob/main/Images/Model.png?raw=true" alt="Model">
+  <br>
+  <em>Figure 4: Training results of the models.</em>
+</p>
